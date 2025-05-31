@@ -14,7 +14,7 @@ project:
     - file: docs/001_MasterDS.md   
     - pattern: docs/masterds/*.md
     - title: Мастер Дверных Систем
-         
+
     - file: docs/002_Struct.md
     - pattern: docs/struct/*.md
     - title: Структура проекта
