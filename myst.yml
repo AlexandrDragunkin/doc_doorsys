@@ -13,7 +13,8 @@ project:
     - file: README.md
     - file: docs/001_MasterDS.md   
       childern: 
-      -pattern: docs/masterds/*.md
+      - file:  docs/masterds/001_primer1.md
+      - pattern: docs/masterds/*.md
 
     - file: docs/002_Struct.md
       childern: 
