@@ -14,6 +14,7 @@ project:
     - pattern: docs/*.md   
       # childern: 
     - file:  docs/masterds/004_primer1.md
+    - pattern: docs/elements/*.md
 
     # - file: docs/002_Struct.md
       # childern: 
