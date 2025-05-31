@@ -13,16 +13,16 @@ project:
     - file: README.md
     - file: docs/001_MasterDS.md   
       childern: 
-      - file:  docs/masterds/001_primer1.md
-      - pattern: docs/masterds/*.md
+        - file:  docs/masterds/001_primer1.md
+
 
     - file: docs/002_Struct.md
       childern: 
-      - pattern: docs/struct/*.md
+        - pattern: docs/struct/*.md
 
     - file: docs/003_Elements.md
       childern: 
-      - pattern: docs/elements/*.md
+        - pattern: docs/elements/*.md
             
 site:
   template: book-theme
