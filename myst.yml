@@ -16,12 +16,12 @@ project:
     - file: docs/002_Struct.md
     - title: Структура проекта
       childern: 
-        - pattern: docs/struct/*.md
+        - file: docs/struct/primer1.md
 
     - file: docs/003_Elements.md
     - title: Элементы
       childern: 
-        - pattern: docs/elements/*.md
+        - file: docs/elements/003_001_primer1.md
             
 site:
   template: book-theme
