@@ -16,7 +16,7 @@ project:
     - title: Структура данных
     - file: docs/002_Struct.md
       childern: 
-        - file: docs/structure/001_primer1.md
+        - file: structure/001_primer1.md
 
     - file: docs/003_Elements.md
     - title: Элементы
