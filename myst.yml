@@ -13,8 +13,8 @@ project:
     - file: README.md
     - file: docs/001_MasterDS.md
 
-    - file: docs/002_Struct.md
     - title: Структура проекта
+    - file: docs/002_Struct.md
       childern: 
         - file: docs/structure/001_primer1.md
 
